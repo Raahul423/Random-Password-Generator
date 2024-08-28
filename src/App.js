@@ -1,5 +1,4 @@
-import logo from './logo.svg';
-import './App.css';
+
 import { useState } from 'react';
 import { LC, NC, SC, UC } from './passchar/passChar';
 // import image from './isometric-online-registration-concept/496162-PI1SED-61.jpg'
